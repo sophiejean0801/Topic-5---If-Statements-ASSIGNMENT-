@@ -133,5 +133,7 @@
                 {
                     Console.WriteLine("You got 0 out of 4 correct. There is no hope for you.");
                 }
+            }
+        }
     }
 }
